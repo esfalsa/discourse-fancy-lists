@@ -15,6 +15,6 @@
     "eslint-config-discourse": "^3.1.0",
     "markdown-it": "^13.0.1",
     "markdown-it-fancy-lists": "^1.2.3",
-    "rollup": "^3.25.1"
+    "rollup": "^3.29.5"
   }
 }
